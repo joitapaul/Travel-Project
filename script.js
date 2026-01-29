@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded",  () {
+document.addEventListener("DOMContentLoaded",function  () {
     const navLinks = document.querySelectorAll(".navbar ul li a");
     const exploreButton = document.querySelector(".content button");
 
