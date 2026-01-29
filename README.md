@@ -1,0 +1,28 @@
+# 🌍 Travel Explorer – Frontend Travel Website
+
+Travel Explorer is a responsive and interactive travel website built using **HTML, CSS, and JavaScript**.  
+The project focuses on providing users with an engaging UI to explore destinations, travel packages, and basic trip information — without using any backend or frameworks.
+
+---
+
+## 🚀 Features
+
+- 🧭 Interactive homepage with travel destination highlights  
+- 🏖️ Destination cards with images and descriptions  
+- 🔍 Search and filter functionality (JavaScript-based)  
+- 📱 Fully responsive design for desktop, tablet, and mobile  
+- 🎨 Modern UI with smooth animations and transitions  
+- 🧠 Client-side logic using Vanilla JavaScript  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling, layout, responsiveness, animations  
+- **JavaScript (Vanilla JS)** – Interactivity and dynamic content  
+
+---
+
+## 📁 Project Structure
+
