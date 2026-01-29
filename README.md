@@ -25,4 +25,21 @@ The project focuses on providing users with an engaging UI to explore destinatio
 ---
 
 ## 📁 Project Structure
-
+travel-project/
+│
+├── index.html
+├── destinations.html
+├── about.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+├── assets/
+│ ├── images/
+│ └── icons/
+│
+└── README.md
