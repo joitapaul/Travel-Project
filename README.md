@@ -43,3 +43,23 @@ travel-project/
 │ └── icons/
 │
 └── README.md
+
+
+---
+
+## 🧩 Functionalities Implemented
+
+- Dynamic rendering of destination data
+- Search destinations by name
+- Smooth scrolling navigation
+- Interactive buttons and hover effects
+- Form validation using JavaScript
+
+---
+
+## 🖥️ How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/travel-explorer.git
+
