@@ -8,7 +8,7 @@ The project focuses on providing users with an engaging UI to explore destinatio
 ## 🚀 Features
 
 - 🧭 Interactive travel homepage with travel destination highlights
-- 🏖️ Destination cards with images and descriptions  
+- 🏖️ Destination cards with images and descriptions in refernce with the one domian  
 - 🔍 Search and filter functionality (JavaScript-based)  
 - 📱 Fully responsive design for desktop, tablet, and mobile  
 - 🎨 Modern UI with smooth animations and transitions  
