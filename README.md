@@ -5,7 +5,7 @@ The project focuses on providing users with an engaging UI to explore destinatio
 
 ---
 
-## 🚀 Features
+
 
 - 🧭 Interactive travel homepage with travel destination highlights
 - 🏖️ Destination cards with images and descriptions 
