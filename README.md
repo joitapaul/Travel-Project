@@ -5,9 +5,9 @@ The project focuses on providing users with an engaging UI to explore destinatio
 
 ---
 
-# 🌍 Travel Explorer – Frontend Travel Website
+Features
 
-- 🧭 Interactive travel homepage with travel destination highlights
+- 🧭 Interactive travel homepage with# travel destination highlights
 - 🏖️ Destination cards with images and descriptions 
 - 🔍 Search and filter functionality (JavaScript-based)  
 - 📱 Fully responsive design for desktop, tablet, and mobile  
