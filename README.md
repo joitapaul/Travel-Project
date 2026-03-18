@@ -4,7 +4,8 @@ Travel Explorer is a responsive and interactive  website built using **HTML, CSS
 The project focuses on providing users with an engaging UI to explore destinations, travel packages, and basic trip information — without using any backend or frameworks. 
 
 ---
-
+ 
+ # Features
 
 
 - 🧭 Interactive travel homepage with# travel destination highlights
